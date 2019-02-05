@@ -1,7 +1,7 @@
 .. _example_usage:
 
-Example usage
-=============
+Tutorials
+=========
 
 .. contents::
     :local:
@@ -10,6 +10,7 @@ Example usage
 
    mES-HiC_analysis
    HiCExport
+   HiGlass
 
 How we use HiCExplorer
 ----------------------
